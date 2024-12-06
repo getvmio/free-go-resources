@@ -1,9 +1,5 @@
 # Go Free Resources
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 🐹 Embrace simplicity and efficiency with our Go Playground repository! Discover a rich collection of free resources for learning and mastering Go programming. With its focus on simplicity and powerful concurrency support, this repository is perfect for building scalable and high-performance applications.
 
 ## Resources
